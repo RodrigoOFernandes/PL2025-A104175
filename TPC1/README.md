@@ -29,7 +29,7 @@ O arquivo de entrada pode conter números misturados com texto, além dos comand
 On 10 20 Off 30 On 40 = 50
 ```
 
-**Saída esperada no **``**:**
+**Saída esperada:**
 
 ```
 Soma até '=': 50
