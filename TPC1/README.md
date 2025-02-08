@@ -1,5 +1,12 @@
 # TPC1 - Somador Condicional de Números num Arquivo
 
+Realizado a 2025-02-08
+
+##Autor 
+
+Rodrigo Oliveira Fernandes - A104175
+![Captura de ecrã 2024-09-26 201150](https://github.com/user-attachments/assets/9464b39a-cbc8-49dc-af0c-fbd804c439c9)
+
 ## Resumo
 
 Este script em Python lê um arquivo de texto e soma os números encontrados nele, respeitando comandos especiais "On" e "Off" para ativar ou desativar a soma. O resultado final e os valores intermediários são gravados em um arquivo `resultado.txt`.
