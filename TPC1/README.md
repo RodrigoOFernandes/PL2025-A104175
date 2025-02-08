@@ -1,4 +1,4 @@
-# 📄 TPC1 - Somador Condicional de Números num Arquivo
+# TPC1 - Somador Condicional de Números num Arquivo
 
 ## Resumo
 
