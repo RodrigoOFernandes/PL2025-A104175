@@ -36,4 +36,7 @@ Soma até '=': 50
 Soma final: 90
 ```
 
+## Teste e Resultado
+[Ficheiro de Teste](https://github.com/RodrigoOFernandes/PL2025-A104175/blob/main/TPC1/tester.txt)
+[Resultado](https://github.com/RodrigoOFernandes/PL2025-A104175/blob/main/TPC1/resultado.txt)
 
