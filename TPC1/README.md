@@ -2,7 +2,7 @@
 
 Realizado a 2025-02-08
 
-##Autor 
+## Autor 
 
 Rodrigo Oliveira Fernandes - A104175
 ![Captura de ecrã 2024-09-26 201150](https://github.com/user-attachments/assets/9464b39a-cbc8-49dc-af0c-fbd804c439c9)
